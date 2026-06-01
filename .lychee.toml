@@ -2,7 +2,7 @@ accept = ["200..=299", "403", "429"]
 max_retries = 3
 retry_wait_time = 2
 timeout = 20
-user_agent = "Mozilla/5.0 (compatible; awesome-ai-research-tools link checker)"
+user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"
 
 exclude = [
   # Dynamic badge endpoints are useful in the README but noisy in link checks.
