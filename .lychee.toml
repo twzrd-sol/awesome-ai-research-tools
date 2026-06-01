@@ -7,4 +7,7 @@ user_agent = "Mozilla/5.0 (compatible; awesome-ai-research-tools link checker)"
 exclude = [
   # Dynamic badge endpoints are useful in the README but noisy in link checks.
   "^https://img\\.shields\\.io/",
+  # Adobe's CDN blocks all non-browser HTTP clients (returns 000 to lychee),
+  # so any adobe.com URL is unverifiable in CI even when the product page is live.
+  "^https://(www|helpx|acrobat)\\.adobe\\.com/",
 ]

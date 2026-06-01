@@ -17,7 +17,7 @@ A curated list of AI-powered tools for academic and scientific research — refr
 ---
 
 > Tools to accelerate every stage of the research pipeline — discovery, reading, citation, analysis, writing, and dissemination.
-> Every link in this list was verified live in **May 2026**. Tools that went offline, pivoted away from research, or were superseded have been removed; URLs that moved have been updated to their current home.
+> Every link in this list was verified live in **June 2026**. Tools that went offline, pivoted away from research, or were superseded have been removed; URLs that moved have been updated to their current home.
 
 ## Contents
 
@@ -55,7 +55,6 @@ Search engines, databases, and feeds for finding relevant work.
 - [Perlego AI Researcher](https://www.perlego.com/ai-researcher) - Smart Search over 1M+ academic textbooks.
 - [Perplexity](https://www.perplexity.ai/) - AI answer engine with inline citations and a Deep Research mode for multi-step report generation.
 - [R Discovery](https://discovery.researcher.life/) - Personalized academic feed across 250M+ papers with AI summaries and translations.
-- [ResearchBuddy](https://researchbuddy.app/) - Automates literature reviews and briefing-paper creation by compiling and filtering research across sources.
 - [Research Rabbit](https://app.researchrabbit.ai/) - Citation-graph paper discovery with personalized email alerts.
 - [Scite](https://scite.ai/) - Smart Citations classifying 1.5B+ citations as supporting, contrasting, or mentioning.
 - [Semantic Scholar](https://www.semanticscholar.org/) - Free AI-powered academic search with TLDR summaries, citation context, libraries, and recommendation feeds.
@@ -202,7 +201,7 @@ The most notable additions in this refresh:
 
 | Category              | Highlights                                                                             |
 | --------------------- | -------------------------------------------------------------------------------------- |
-| Discovery             | Paperguide, Paper Digest, Perplexity, R Discovery, ResearchBuddy, Semantic Scholar     |
+| Discovery             | Paperguide, Paper Digest, Perplexity, R Discovery, Semantic Scholar                    |
 | Research agents       | Stanford STORM, PaperQA2, Edison Kosmos, Undermind, Ai2 Asta, BGPT, arXiv MCP Server   |
 | Reading & Q&A         | Anara, Humata, Logically (ex-Afforai), Scholarcy, SciSummary, Adobe Acrobat AI         |
 | Citation & references | CiteMe, Sourcely, ChatAcademia                                                         |
