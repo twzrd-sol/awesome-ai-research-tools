@@ -74,6 +74,7 @@ Autonomous and semi-autonomous agents that plan, search, and synthesize.
 - [Lune](https://luneresearch.com) - MCP server giving agents grounded knowledge and tools for scientific workflows, sourced from research papers.
 - [PaperQA2](https://github.com/Future-House/paper-qa) - Open-source RAG agent for high-accuracy Q&A over scientific PDFs with grounded citations.
 - [Stanford STORM](https://github.com/stanford-oval/storm) - LLM knowledge-curation system that researches a topic and writes a Wikipedia-style report with citations.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and identity verification for autonomous AI research agents on Solana. Verify agent wallet identity before x402 micropayments in multi-agent research pipelines. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 <a id="reading--paper-qa"></a>
 
